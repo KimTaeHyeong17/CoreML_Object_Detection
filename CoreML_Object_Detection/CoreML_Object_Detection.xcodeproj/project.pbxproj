@@ -20,6 +20,7 @@
 		4986F34D2452D6B70070576A /* CapturePreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4986F34C2452D6B70070576A /* CapturePreviewView.swift */; };
 		4986F34F2452D8110070576A /* VideoCapture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4986F34E2452D8110070576A /* VideoCapture.swift */; };
 		4986F3512452D82B0070576A /* CIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4986F3502452D82B0070576A /* CIImage.swift */; };
+		4986F3532452E87E0070576A /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 4986F3522452E87D0070576A /* Inceptionv3.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		4986F34C2452D6B70070576A /* CapturePreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapturePreviewView.swift; sourceTree = "<group>"; };
 		4986F34E2452D8110070576A /* VideoCapture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCapture.swift; sourceTree = "<group>"; };
 		4986F3502452D82B0070576A /* CIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CIImage.swift; sourceTree = "<group>"; };
+		4986F3522452E87D0070576A /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				4986F34C2452D6B70070576A /* CapturePreviewView.swift */,
 				4986F34E2452D8110070576A /* VideoCapture.swift */,
 				4986F3502452D82B0070576A /* CIImage.swift */,
+				4986F3522452E87D0070576A /* Inceptionv3.mlmodel */,
 			);
 			path = CoreML_Object_Detection;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				4986F3392452D3BA0070576A /* CoreML_Object_Detection.xcdatamodeld in Sources */,
 				4986F34D2452D6B70070576A /* CapturePreviewView.swift in Sources */,
 				4986F34F2452D8110070576A /* VideoCapture.swift in Sources */,
+				4986F3532452E87E0070576A /* Inceptionv3.mlmodel in Sources */,
 				4986F3512452D82B0070576A /* CIImage.swift in Sources */,
 				4986F3312452D3BA0070576A /* SceneDelegate.swift in Sources */,
 			);
